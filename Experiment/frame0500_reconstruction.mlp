@@ -1,0 +1,46 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh label="frame0500_clean.xyz" filename="../data/PointCloud_bin/XYZ/Cleaned/frame0500_clean.xyz">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="high_res" filename="../data/PointCloud_bin/XYZ/Cleaned/frame0500_highres.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="low_res" filename="../data/PointCloud_bin/XYZ/Cleaned/frame0500_lowres.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="high_res_lapace5" filename="../data/PointCloud_bin/XYZ/Cleaned/frame0500_highres_lapace5.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="Poisson_12_15_1" filename="../data/PointCloud_bin/XYZ/Cleaned/frame0005_poisson_12_15_1.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
